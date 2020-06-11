@@ -1,0 +1,13 @@
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\Gestion_Service_ENSA.exe.config
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\Gestion_Service_ENSA.exe
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\Gestion_Service_ENSA.pdb
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\MetroFramework.dll
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.csprojAssemblyReference.cache
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.Form1.resources
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.Properties.Resources.resources
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.csproj.GenerateResource.cache
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.csproj.CoreCompileInputs.cache
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.csproj.CopyComplete
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.exe
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.pdb

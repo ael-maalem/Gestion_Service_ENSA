@@ -11,3 +11,8 @@ C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Se
 C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.csproj.CopyComplete
 C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.exe
 C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.pdb
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\DatabaseGestionService.mdf
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\bin\Debug\DatabaseGestionService_log.ldf
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.Administrateur.resources
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.AdminEtud.resources
+C:\Users\alMostapha\Desktop\Gestion_Service_ENSA\Gestion_Service_ENSA\Gestion_Service_ENSA\obj\Debug\Gestion_Service_ENSA.AdminAdminScolarite.resources
